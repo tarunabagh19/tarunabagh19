@@ -17,7 +17,8 @@ I'm a passionate **Full Stack Engineer Lead** and **Data Scientist** with experi
 
 ## 🌱 Learning & Interests
 - Exploring advanced Python frameworks
-- Improving UI/UX design skills
+- Helping community with Machine learning and AI tools
+- Improving UI/UX design skills 
 - Contributing to open-source projects
 
 ## 📫 Contact Me
