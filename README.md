@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Engineer Lead** and **Data Scientist** with experi
 
 ## 💼 Current Projects
 - 🔧 [master](https://github.com/tarunabagh19/master): Main personal project repository.
-- 📊 [media-dashboard](https://github.com/tarunabagh19/media-dashboard): A dashboard application for managing media content.
+- 📊 [media-dashboard](https://github.com/tarunabagh19/energy-dashboard): A dashboard application for managing energy content.
 
 ## 🌱 Learning & Interests
 - Exploring advanced Python frameworks
