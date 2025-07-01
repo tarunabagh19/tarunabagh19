@@ -14,7 +14,6 @@ I'm a passionate **Full Stack Engineer Lead** and **Data Scientist** with experi
 ## 💼 Current Projects
 - 🔧 [master](https://github.com/tarunabagh19/master): Main personal project repository.
 - 📊 [energy-dashboard](https://github.com/tarunabagh19/energy-dashboard): A dashboard application for managing energy content.
-- ✈️ [Flight Delays Machine Learning prediction](https://github.com/tarunabagh19/flightdelays_machine_learning): A project that predicts flight delays using historical data. Includes data preprocessing, model training, and evaluation
 - 📚 [Publication](https://github.com/tarunabagh19/publication):Transforming rehabilitation through intelligent exergaming. Based on the article: Moving Rehab Forward
 - 🌐 [SNSNodeApp](https://github.com/tarunabagh19/SNSNodeApp) AWS Simple Notification Service (SNS) for scalable and reliable messaging across distributed systems
 - 📊 [Dashboard Charts](https://github.com/tarunabagh19/master/tree/dashboard/dashboard-charts) Interactive and responsive chart components for dashboards, built with modern JavaScript libraries to visualize data effectively.
