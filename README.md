@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Engineer Lead** and **Data Scientist** with experi
 - **Languages**: Python, TypeScript, JavaScript
 - **Frontend**: Angular 12.0, HTML5, CSS3, SCSS
 - **Backend & Database**: MongoDB
-- **Concepts**: Object-Oriented Programming, RESTful APIs
+- **Concepts**: Object-Oriented Programming, RESTful APIs, Graphql Queries
 
 ## 💼 Current Projects
 - 🔧 [master](https://github.com/tarunabagh19/master): Main personal project repository.
