@@ -14,6 +14,7 @@ I'm a passionate **Full Stack Engineer Lead** and **Data Scientist** with experi
 ## 💼 Current Projects
 - 🔧 [master](https://github.com/tarunabagh19/master): Main personal project repository.
 - 📊 [energy-dashboard](https://github.com/tarunabagh19/energy-dashboard): A dashboard application for managing energy content.
+- 🤖 [Planwise-Agentic-App](https://github.com/tarunabagh19/Planwise-Agentic-App): An Agentic AI-powered full-stack app built with React and Node.js, integrating OpenAI for intelligent task planning and automation.
 - 📚 [Publication](https://github.com/tarunabagh19/publication):Transforming rehabilitation through intelligent exergaming. Based on the article: Moving Rehab Forward
 - 🌐 [SNSNodeApp](https://github.com/tarunabagh19/SNSNodeApp) AWS Simple Notification Service (SNS) for scalable and reliable messaging across distributed systems
 - 📊 [Dashboard Charts](https://github.com/tarunabagh19/master/tree/dashboard/dashboard-charts) Interactive and responsive chart components for dashboards, built with modern JavaScript libraries to visualize data effectively.
