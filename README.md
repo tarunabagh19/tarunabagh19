@@ -27,7 +27,6 @@ I'm a passionate **Full Stack Engineer Lead** and **Data Scientist** with experi
 
 ## 📫 Contact Me
 - GitHub: [tarunabagh19](https://github.com/tarunabagh19)
-- Email: *tarunagoswami@outlook.com*
 - LinkedIn: *https://www.linkedin.com/in/taruna-g-688b64102/*
 - Medium: *https://medium.com/@tarunabagh*
 
